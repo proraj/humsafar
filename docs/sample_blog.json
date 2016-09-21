@@ -1,0 +1,68 @@
+{
+  "id":"1",
+  "name":"Trip to Goa",
+  "description":"trip with family and friends to goa",
+  "members":
+    [
+      {
+        "name":"ajit",
+        "relation":"friend"
+      },
+      {
+        "name":"ajit",
+        "relation":"friend"
+      }
+    ],
+    
+    "startTime":"20118181", 
+    "endTime":"20118181", 
+    
+    "path":
+    {
+      "startPoint":
+      {
+        "lat":"123.321",
+        "long":"123.321"
+      },
+      
+      "endPoint":
+      {
+        "lat":"123.321",
+        "long":"123.321"
+      },
+
+      "direction":
+      [
+        {
+          "lat":"123.321",
+          "long":"123.321"
+        },
+        {
+          "lat":"123.321",
+          "long":"123.321"
+        }
+      ]
+    },
+  	"halts":
+  	[
+  	{
+	"name":"halt 1",
+	"location":
+	{
+	  "lat":"123.321",
+	  "long":"123.321"
+	},
+	"images":
+	[ "imageURI",
+	  "imageURI"
+	],
+	"notes":
+	[
+	  "",
+	  ""
+	],
+	"startTime":"20118181",
+	"endTime":"20118181"
+  }
+]
+}
